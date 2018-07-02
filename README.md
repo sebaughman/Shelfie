@@ -6,33 +6,6 @@ A design was given with specifications similar to what a developer would recive 
 
 The sehlfie app has b=multiple bins and each bin has a shelf where the user can store data. 
 
-# Color Palette & Font
-
-<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/colors.png" />
-
-<b><a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans">Google Font - Open Sans</a></b>
-
-# Application Design
-
-## Homepage
-
-<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/views/home.png" />
-
-## Shelf - Bin List
-
-<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/views/shelf.png" />
-
-## Bin - Inventory Details / Edit Bin
-
-<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/views/bin.png" />
-
-<br />
-
-<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/views/edit.png" />
-
-## Add to Bin
-
-<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/views/create.png" />
 
 # Technical Requirements - Front-end
 
