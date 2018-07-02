@@ -4,7 +4,7 @@
 
 A design was given with specifications similar to what a developer would recive on the job. I was to use the specifications to build an the desired app. 
 
-The sehlfie app has b=multiple bins and each bin has a shelf where the user can store data. 
+The sehlfie app has multiple shelves and each self has multiple bins where the user can store data. 
 
 
 # Technical Requirements - Front-end
